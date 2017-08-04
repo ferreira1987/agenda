@@ -1,0 +1,12 @@
+
+.center-align{text-align: center !important;}
+.page-header{height: auto !important;}
+
+.page-header .page-header-top .page-logo .logo-default{margin: 20px 0 0 20px;}
+.modal-open .datetimepicker{z-index: 1000;}
+.bootstrap-datetimepicker-widget.dropdown-menu{width: 17em;}
+/*.modal{width:600px !important;}*/
+
+@media (max-width: 980px){
+    .portlet.calendar.light .fc-button{top: 0px !important;}
+}
